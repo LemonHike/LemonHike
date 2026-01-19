@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=LemonHike.LemonHike" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&duration=4000&pause=1000&color=000000&center=true&vCenter=true&width=800&height=100&lines=Hi+There,+I'm+Ludovico+👋;Data+Scientist+and+Software+Developer"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&duration=4000&pause=1000&color=4169E1&center=true&vCenter=true&width=800&height=100&lines=Hi+There,+I'm+Ludovico+👋;Data+Scientist+and+Software+Developer"/>
 </h1>
 
 
