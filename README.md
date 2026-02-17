@@ -11,7 +11,7 @@
 
 <div align="left">
 
-I'm a Data Science enthusiast currently diving deep into my MSc in Data Science at Bocconi University, where I also completed my BSc in Economics and Computer Science. Along the way, I've had some exciting experiences, like co-founding Thermix Space—a startup that uses satellite imagery for thermal analysis and even won a few awards, like the Veneto Stars Competition! 🏆
+I'm a Data Science with an MSc in Data Science at Bocconi University, and BSc in Economics and Computer Science. Along the way, I've had some exciting experiences, like co-founding Thermix Space—a startup that uses satellite imagery for thermal analysis and even won a few awards, like the Veneto Stars Competition! 🏆
 
 I’ve worked as a Data Scientist, built automated tools for data analysis, and developed deep learning models to classify leukemic cells. My projects often mix deep learning, advanced statistical modeling, and creativity—whether it's predicting air pollution or exploring brain networks. I’m pretty handy with Python, R, SQL, and machine learning frameworks.
 
